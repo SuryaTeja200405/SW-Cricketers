@@ -1,0 +1,173 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.Homesection-bg {
+    background-image: url("https://img.freepik.com/premium-photo/cricket-bat-ball-green-grass_53876-83415.jpg?w=360");
+    height: 110vh;
+    background-size: cover;
+
+
+}
+
+.card-top-section {
+    background-color: #fb4e71;
+
+    background-size: cover;
+    padding: 12px;
+
+}
+
+.homesection-heading {
+    color: white;
+    font-family: "Caveat";
+    font-size: 45px;
+    font-weight: bold;
+
+}
+
+.home-section-button {
+    color: white;
+    border-radius: 17px;
+
+}
+
+.homesection-card {
+    background-color: #a4080d;
+
+    border-radius: 20px;
+    text-align: center;
+    padding: 30px;
+    margin: 25px;
+}
+
+.Favourite-player-bg {
+    background-image: url("https://img.freepik.com/premium-photo/baseball-bat-with-word-cricket-it_863306-2.jpg?w=360");
+
+    background-size: cover;
+    padding: 20px;
+}
+
+.favourite-player-heading {
+    font-family: "Caveat";
+    font-weight: Bold;
+    font-size: 50px;
+    padding: 25px;
+    color: white;
+    text-decoration: underline;
+}
+
+.player-card {
+
+    background-color: white;
+
+
+    border-radius: 20px;
+    margin-bottom: 40px;
+
+
+
+}
+
+.card-image {
+    height: 18vh;
+    width: 25vw;
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+}
+
+.card-heading {
+    color: #110d51;
+    font-size: 40px;
+    font-family: "Lobster";
+
+}
+
+.card-description {
+    color: #110d51;
+    font-size: 15px;
+    font-family: "Roboto";
+
+}
+
+.card-description1 {
+    padding: 15px;
+}
+
+
+.card-top-section-heading {
+    font-family: "Roboto";
+    font-size: 30px;
+    color: white;
+    font-weight: bolder;
+    padding: 11px;
+}
+
+.card-top-section-para {
+    font-family: "Roboto";
+    font-size: 14px;
+    color: #ffffff;
+    padding: 11px;
+}
+
+.card-top-section-image {
+
+    height: 22vh;
+    width: 28vw;
+}
+
+.card-bottom-section {
+    background-color: #e6f6ff;
+
+    background-size: cover;
+    padding: 15px;
+
+}
+
+.card-bottom-section-heading {
+    color: black;
+    font-size: 18px;
+    font-weight: bold;
+    font-family: "Roboto";
+    padding: 10px;
+    ;
+
+}
+
+.card-bottom-section-card {
+    background-color: #ffffff;
+    border-radius: 8px;
+
+
+}
+
+.card-bottom-section-card-image {
+    height: 18vh;
+    width: 24vw;
+    border-top-left-radius: 15px;
+    border-bottom-left-radius: 15px;
+
+}
+
+.card-bottom-section-card-text-container {
+    padding: 10px;
+    margin: 2px;
+}
+
+.card-bottom-section-card-text-container-para {
+    color: #888888;
+}
+
+.video-card-description {
+    font-size: 13px;
+    padding: 3px;
+}
+
+.video-image {
+    height: 15vh;
+    width: 25vw;
+    border-radius: 15px;
+    margin: 10px;
+}
+
+.button-player {
+    margin-left: 10px;
+}
